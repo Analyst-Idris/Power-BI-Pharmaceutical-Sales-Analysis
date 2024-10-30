@@ -61,6 +61,37 @@ To support data-driven decision-making and deliver clear, actionable insights, a
 ![Uploading Marketing Analysis.jpg…]()
 
 
+## SUMMARY OF REVENUE AND OTHER KEY METRICS
+
+The analysis of revenue and performance metrics across different channels, product classes, and managers provides a detailed overview of the business's financial landscape and operational efficiency.
+
+To visualize sub-channel performance, revenue figures for **Retail and Private channels** were analyzed. **Retail Channel** emerged as the leading revenue generator with 8.2 billion, while the **Private channel** followed at 2.3 billion. Further breakdown by channel type highlighted **Pharmacy** as the top revenue contributor with 5.85 billion, accounting for 52.9% of the total revenue, while **Hospitals** contributed 5.2 billion, or 47.1%.
+
+**1. Product class analysis:** This analysis revealed significant revenue distribution among key products. **Analgesics** achieved the highest target and actual revenue, reaching 5.3 million and 5.2 million, respectively. Antiseptics followed with target and actual revenues of 4.2 million and 4 million. In contrast, **Antimalarial products** had the lowest target revenue at 2.05 million, and **Antiseptics** recorded the lowest actual revenue of 3.08 million. For geographic insights, a city-wise quantity analysis indicated that **Butzbach** led with 174.23k, while **Altenburg** reported the lowest with 94.97k.
+
+**2. Manager Performance:** Manager performance was also evaluated to determine target vs. actual quantities. **Brittany Bold** stood out with the highest actual (6.7 million) and target (8.4 million) quantities, whereas **James Goodwill** recorded the lowest actual quantity of 5.7 million, and **Alisha Cardwell** had the lowest target quantity at 4.3 million.
+
+**3. Monthly Insights Accross the years:** Monthly revenue progression was examined to identify peak periods. June 2022, March 2023, and August 2024 emerged as the highest revenue-generating months in their respective years, offering insights for seasonal adjustments in sales strategies.
+
+**4. Summary Other Metrics by Top 15 Products:** An overview of the top 15 products provided a comprehensive summary of actual and target quantities, along with actual and target revenue metrics. **Amavirase** achieved the highest revenue among these top products, while **Zyvance** recorded the lowest.
+
+## RECOMMENDATIONS
+
+
+**1.	Focus on High-Performing Channels (Pharmacy and Retail):**  Given that the Pharmacy channel contributes the largest portion of revenue (52.9%) and Retail leads among sub-channels with 8.2 billion, efforts should be made to further optimize these channels. Strategies such as targeted marketing, customer loyalty programs, and inventory prioritization for these channels can help sustain and potentially increase their revenue contribution.
+
+
+**2.	Enhance Marketing for Low-Performing Products (Antimalarial and Antiseptics):** With Antimalarial products having the lowest target revenue and Antiseptics showing the lowest actual revenue, a focused marketing campaign or promotional discounts could improve their sales. Additionally, assessing market demand for these products could help in revising their positioning to better align with customer needs. 
+
+
+**3.	Maximize Regional Opportunities by Leveraging Top-Performing Cities (Butzbach):** **Butzbach**, with the highest quantity among cities (174.23k), represents a strong regional market. Concentrated sales efforts in this region, such as exclusive promotions or enhanced distribution, could further drive growth. Conversely, for cities like **Altenburg** with lower quantities, a more targeted marketing approach may help increase awareness and demand.
+
+
+**4.	Allocate Resources Based on Manager Performance Metrics:** Managers like **Brittany Bold**, who achieved high target and actual quantities, could be allocated more resources and responsibilities, such as managing larger territories or leading new campaigns. For managers with lower actual quantities, additional training and performance improvement plans could be implemented to ensure consistent achievement of targets across the board.
+
+
+
+
 
 
 
