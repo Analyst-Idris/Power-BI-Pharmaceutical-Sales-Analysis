@@ -1,3 +1,2 @@
 # Power-BI-Pharmaceutical-Sales-Analysis
-
-![portrait-female-pharmacist-working-drugstore](https://github.com/user-attachments/assets/2e47f371-6dee-4c64-9763-8658a08f9ec5)
+![image](https://github.com/user-attachments/assets/177b9b94-9af7-4630-b3c7-aec1b00ca5b8)
