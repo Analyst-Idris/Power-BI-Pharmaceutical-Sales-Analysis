@@ -52,13 +52,13 @@ To support data-driven decision-making and deliver clear, actionable insights, a
 
 **Pharmaceutical Performance Analysis Visual**
 
-![Uploading Performance Analysis.jpg…]()
+![Performance Analysis](https://github.com/user-attachments/assets/96b6a1e0-958c-4aae-9fd3-cb521036a975)
 
 
 **Pharmaceutical marketing Analysis Visual**
 
 
-![Uploading Marketing Analysis.jpg…]()
+![Marketing Analysis](https://github.com/user-attachments/assets/dec3d3f0-45f7-4f07-ab9e-93cccad00ad4)
 
 
 ## SUMMARY OF REVENUE AND OTHER KEY METRICS
